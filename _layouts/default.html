@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{site.github_baseurl}}/assets/css/styles.css">
+  </head>
+  <header>
+    <div id="myButton" class="button">
+      <button class="openbtn" onclick="openNav()">&#9776;</button>
+    </div>
+    <div class="title">
+      <h1>owen's super cool awesome website</h1>
+    </div>
+  </header>
+  <body>
+    <div>
+      <div id="main" class="main">
+        {{ content }}
+      </div>
+      <aside id="mySidebar" class="sidebar">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        {% include navigation.html %}
+      </aside>
+    </div>
+
+    {% if page.include_scripts %}
+      {% for include_script in page.include_scripts %}
+        <script type='text/javascript' src='{{site.github_baseurl}}{{ include_script }}'></script>
+      {% endfor %}
+    {% endif %}
+  </body>
+</html>
