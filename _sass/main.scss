@@ -73,16 +73,13 @@ body {
   flex-direction:column;
 }
 
-header {
+.header {
   display:flex;
-  flex-direction:row;
-  position: relative;
+  align-items:center;
 }
 
 .title {
-  flex: 0 1 auto;
-  transform: translateX(90%);
-  justify-content: center
+  justify-content: center;
 }
 
 h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
