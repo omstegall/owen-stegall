@@ -6,7 +6,7 @@ include_scripts: [
 title: "the addiction economy"
 ---
 
-#### the good, the bad, and the ugly of the online
+### the good, the bad, and the ugly of the online
 
 last year, i quit working as a software engineer at amazon and planned on starting law school classes in the fall. i also started making concrete changes to how i spent my time online. i deleted my facebook, instagram, and twitter accounts permanently. i never used facebook, and instagram was a vestige of a pre-covid life. when i used twitter (i never used the app by its other name because i turned off my phone's auto-update), it felt like home. i enjoyed being able to send my inner thoughts into the ether while also finding live updates on sports and politics. but the app became a [harbor for hate speech][twitter-hate] and the sports posts subsequently became negligble. i was able to replace that part of my life with bluesky, [the official app for sports][bluesky-sports], where i was able to reintegrate into the online community that migrated off of twitter. 
 
@@ -14,7 +14,7 @@ i also read yanis varoufakis's book [technofeudalism][tf-book] last summer, whic
 
 i think it's good that society is coming to terms with technology's place in our lives. it can augment our lives and reduce some day-to-day burdens, but it may also [harm a person's mental development][tech-harm]. children should not be completely kicked off the internet because there are incredible things they can access online, like community and access to information (bluesky and youtube/wikipedia, respectively, provide those for me). although, after several states have sued meta with claims that it is [addictive for young people][fb-addiction] and a new mexico court found that [meta[knowingly harmed the mental health of children][fb-health], it might be better to place the online attention economy and the depravity economy, along with the [general increase in physical drug dependency in the united states][us-addctn], under a larger umbrella term of an addiction economy. 
 
-#### addiction in america
+### addiction in america
 
 anyone with an iota of morality would recognize how corrupt it would be to profit off of addicts. nonetheless, it seems that the united states has determined that addicts are just too good of a consumer base. [the government tried to ban alcohol][18th-amdt] but it was [too ingrained in society][21st-amdt] to allow for a prolonged prohibition ([it did lead to the birth of nascar][nascar-wiki], so who's to say what it's net impact was). cigarettes were recognized as a dangerous product that needed to be [regulated by the FDA][fda-regulation]. nonetheless, [electronic cigarettes][e-cigs-youth] and [nicotine salt pouches][nicotine-pouch-youth], like zyn, have risen in usage amongst young people. addiction seems to be rooted within america and, as such, needs a deliberate effort to remediate society's dependence on substances.
 
@@ -30,7 +30,7 @@ while young, white men disporportionately use [nicotine pouches][ywm-nicotine] a
 
 there are so many ways to rally against letting an addiction economy overtake the american way of living. for example, the [physical and mental health risks][nic-danger] of nicotine need to be common knowledge among young people, sports betting should only exist in physical locations to reduce the ease of accesing a financially burdensome addiction on one's phone, and legislators need to be pressured to heavily regulate prediction markets. these are not inherently difficult tasks, and i believe they would be effective at reducing the potential dangers posed by the growth of an addiction economy in america.
 
-#### post-script
+### post-script
 
 while i may not have "enjoyed" writing about this depressing subject matter, i have discovered that i enjoy the process of writing. i'm going to (hopefully) try to continue expressing my thoughts every now and then on this site.
 
