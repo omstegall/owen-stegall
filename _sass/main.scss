@@ -73,9 +73,10 @@ body {
   flex-direction:column;
 }
 
-.header {
+header {
   display:flex;
   flex-direction:row;
+  justify-content:justify-between;
 }
 
 h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
