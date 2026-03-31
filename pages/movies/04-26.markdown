@@ -1,0 +1,16 @@
+---
+layout: default
+include_scripts: [
+	"/assets/js/nav-bar.js"
+] 
+title: "april 2026"
+---
+
+#### april 01
+
+i watched [mike and nick and nick and alice][mnna] yesterday. it was alright. i enjoyed ben schwartz's minor role, the soundtrack was p good, and the cinematography was kinda fun in some of the last scenes. i enjoyed the running bit of different terms/words characters didn't know, which shocked the other person. the lighting was wayyyyy too dark for an afternoon viewing at home. i kinda just needed a valve to turn off my mind and this provided the perfect opportunity as a sci-fi action flick to do that. no real underlying theme or point; just silly fun. 
+
+i give this a 3/5 rory boyfriends
+
+[mnna]: https://letterboxd.com/film/mike-nick-nick-alice/
+

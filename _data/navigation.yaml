@@ -2,14 +2,10 @@
   url: intro
 - name: about
   url: about
-- name: code
-  url: code
 - name: resume
   url: resume
-- name: essays
-  url: essays
-- name: notes
-  url: notes
+- name: blogs
+  url: blogs
 - name: books
   url: books
 - name: hobbies
@@ -18,3 +14,9 @@
   url: movies
 - name: tv
   url: tv
+- name: essays
+  url: essays
+- name: code
+  url: code
+- name: notes
+  url: notes

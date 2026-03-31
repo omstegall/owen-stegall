@@ -1,0 +1,68 @@
+---
+layout: default
+include_scripts: [
+	"/assets/js/nav-bar.js"
+]
+title: "the addiction economy"
+---
+
+#### the good, the bad, and the ugly of the online
+
+last year, i quit working as a software engineer at amazon and planned on starting law school classes in the fall. i also started making concrete changes to how i spent my time online. i deleted my facebook, instagram, and twitter accounts permanently. i never used facebook, and instagram was a vestige of a pre-covid life. when i used twitter (i never used the app by its other name because i turned off my phone's auto-update), it felt like home. i enjoyed being able to send my inner thoughts into the ether while also finding live updates on sports and politics. but the app became a [harbor for hate speech][twitter-hate] and the sports posts subsequently became negligble. i was able to replace that part of my life with bluesky, [the official app for sports][bluesky-sports], where i was able to reintegrate into the online community that migrated off of twitter. 
+
+i also read yanis varoufakis's book [technofeudalism][tf-book] last summer, which introduced me to the idea of the attention economy. while i don't fully grasp the economic thought, i do think the book made some salient points about what pushed the boom of the tech industry. varoufakis essentially posits that the economy has shifted from capitalism into a serfdom wherein large tech companies are vying for the attention of the world to increase its political power. i had already moved off of most large social media apps before reading the book, but i still wondered whether i was harming myself by spending time scrolling bluesky or watching youtube videos. in thinking about how i spend my time online, i came to the conclusion that an attention economy isn't the only driving factor behind a [increased rate in american unhappiness][sad-us]. the real worrisome development is the growth of the addiction economy in the united states.
+
+i think it's good that society is coming to terms with technology's place in our lives. it can augment our lives and reduce some day-to-day burdens, but it may also [harm a person's mental development][tech-harm]. children should not be completely kicked off the internet because there are incredible things they can access online, like community and access to information (bluesky and youtube/wikipedia, respectively, provide those for me). although, after several states have sued meta with claims that it is [addictive for young people][fb-addiction] and a new mexico court found that [meta[knowingly harmed the mental health of children][fb-health], it might be better to place the online attention economy and the depravity economy, along with the [general increase in physical drug dependency in the united states][us-addctn], under a larger umbrella term of an addiction economy. 
+
+#### addiction in america
+
+anyone with an iota of morality would recognize how corrupt it would be to profit off of addicts. nonetheless, it seems that the united states has determined that addicts are just too good of a consumer base. [the government tried to ban alcohol][18th-amdt] but it was [too ingrained in society][21st-amdt] to allow for a prolonged prohibition ([it did lead to the birth of nascar][nascar-wiki], so who's to say what it's net impact was). cigarettes were recognized as a dangerous product that needed to be [regulated by the FDA][fda-regulation]. nonetheless, [electronic cigarettes][e-cigs-youth] and [nicotine salt pouches][nicotine-pouch-youth], like zyn, have risen in usage amongst young people. addiction seems to be rooted within america and, as such, needs a deliberate effort to remediate society's dependence on substances.
+
+however, the nationwide legalization of sports gambling and deregulation of predication markets have also created a [depravity economy][dep-econ]. sports gambling has caused dozens of collegiate and professional athletics to either be [inundated with harassment from gamblers who lost money][ncaa-harassment] or [succumb themselves to gambling on the outcomes of their own performances][insider-gambling]. further, prediction markets like kalshi or polymarket, in which a person can bet on whether a specific outcome will occur, have also become [widely popular and profitable][pm-popular]. these prediction markets have created [purported insider trading scandals][pm-insider-trading], [de-facto war profiteering][war-profiteering], and even, for a short period, [the ability to gamble on when a nuclear holocaust might occur][nuclear-holocaust].
+
+i don't want to come across as high and mighty here. i was addicted to nicotine myself, using electronic cigarettes regularly in my late teens and early twenties before stopping routinely using it in undergrad. i have also gambled on the occassional sporting event but quit after seeing its deleterious impact on athletics. rather, i want to show that a large portion of the american economy is built on taking advantage of people who are addicted in some form, and that the executive, legislative, and judicial branches are not only failing to protect members of society but are also complicit in allowing these harms to occur or continue. 
+
+#### how this happened and how to fix it
+
+neither congress nor the fda have implemented stricter regulations on [electronic nicotine][[nicotine-regulation]], and nicotine salt pouches were just [approved by the fda][legal-zyn] for marketing last year. sports gambling became a regular pasttime nationwide after the supreme court ruled in [murphy v. ncaa][murphy-v-ncaa] that the federal law prohibiting sports gambling was unconstitutional based on states' rights under the 10th amendment. the [cftc is failing to hold prediction markets accountable][cftc] after the federal government [reversed course on regulating the industry][prediction-legal].
+
+while young, white men disporportionately use [nicotine pouches][ywm-nicotine] and the various [gambling platforms][ywm-gambling], people in negative social environments, [like marginalized communities][neg-soc-marg] are more likely to experience [addictive diseases][addiction-soc]. building an economy around addiction would likely lead to further class separation as [poorer communities would be less likely to recover from the health and/or financial issues that result from addiction][poor-addict]. 
+
+there are so many ways to rally against letting an addiction economy overtake the american way of living. for example, the [physical and mental health risks][nic-danger] of nicotine need to be common knowledge among young people, sports betting should only exist in physical locations to reduce the ease of accesing a financially burdensome addiction on one's phone, and legislators need to be pressured to heavily regulate prediction markets. these are not inherently difficult tasks, and i believe they would be effective at reducing the potential dangers posed by the growth of an addiction economy in america.
+
+#### post-script
+
+while i may not have "enjoyed" writing about this depressing subject matter, i have discovered that i enjoy the process of writing. i'm going to (hopefully) try to continue expressing my thoughts every now and then on this site.
+
+[twitter-hate]: https://news.berkeley.edu/2025/02/13/study-finds-persistent-spike-in-hate-speech-on-x/
+[bluesky-sports]: https://badfaithtimes.com/your-guide-to-bluesky-the-official-app-of-sports/
+[tf-book]: https://www.goodreads.com/book/show/75560036-technofeudalism
+[sad-us]: https://news.gallup.com/poll/702125/american-optimism-slumps-record-low.aspx
+[18th-amdt]: https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution
+[21st-amdt]: https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution
+[nascar-wiki]: https://en.wikipedia.org/wiki/NASCAR#:~:text=NASCAR%2C%20and%20stock%20car%20racing%20as%20a%20whole%2C%20traces%20its%20roots%20back%20to%20moonshine%20runners%20during%20Prohibition%2C%20who%20grew%20to%20compete%20against%20each%20other%20in%20a%20show%20of%20pride.
+[fda-regulation]: https://en.wikipedia.org/wiki/Regulation_of_tobacco_by_the_U.S._Food_and_Drug_Administration
+[e-cigs-youth]: https://pmc.ncbi.nlm.nih.gov/articles/PMC7023954/
+[nicotine-pouch-youth]: https://hub.jhu.edu/2024/03/08/zyn-nicotine-pouch-tory-spindle/
+[dep-econ]: https://www.404media.co/with-iran-war-kalshi-and-polymarket-bet-that-the-depravity-economy-has-no-bottom/#:~:text=All%20of%20this%20is%20part,to%20get%20into%20prediction%20markets.
+[ncaa-harassment]: https://www.espn.com/college-sports/story/_/id/41665899/study-angry-bettors-growing-abuse-ncaa-athletes
+[insider-gambling]: https://www.espn.com/espn/betting/story/_/id/39908218/a-line-sports-gambling-scandals-2018
+[pm-insider-trading]: https://yourbrainonmoney.substack.com/p/someone-made-90k-betting-on-iran
+[war-profiteering]: https://www.404media.co/with-iran-war-kalshi-and-polymarket-bet-that-the-depravity-economy-has-no-bottom/
+[pm-popular]: https://defirate.com/news/kalshi-hits-12b-polymarket-10b-all-time-highs-march-ncaa-tournament-surge/
+[nuclear-holocaust]: https://www.404media.co/polymarket-pulls-bet-on-nuclear-detonation-in-2026/
+[nicotine-regulation]: https://www.congress.gov/crs-product/R48483#_Toc195009039
+[legal-zyn]: https://www.fda.gov/news-events/press-announcements/fda-authorizes-marketing-20-zyn-nicotine-pouch-products-after-extensive-scientific-review
+[murphy-v-ncaa]: https://www.supremecourt.gov/opinions/17pdf/16-476_dbfi.pdf
+[cftc]: https://donmoynihan.substack.com/p/the-polymarket-nobody-knows-how-to
+[prediction-legal]: https://www.cbsnews.com/news/prediction-markets-2026-super-bowl/
+[fb-addiction]: https://apnews.com/article/instagram-facebook-children-teens-harms-lawsuit-attorney-general-1805492a38f7cee111cbb865cc786c28
+[fb-health]: https://apnews.com/article/meta-facebook-new-mexico-trial-28eabd8ec5f58c1d1ecddc21bb107de7
+[us-addctn]: https://www.samhsa.gov/newsroom/press-announcements/20250728/samhsa-releases-annual-national-survey-on-drug-use-and-health
+[tech-harm]: https://pmc.ncbi.nlm.nih.gov/articles/PMC7366948/
+[ywm-nicotine]: https://keck.usc.edu/news/use-of-nicotine-pouches-increases-significantly-among-u-s-teens/
+[ywm-gambling]: https://www.ipsos.com/en-us/americans-view-prediction-markets-closer-gambling#:~:text=Young%20men%20ages%2018%2D24%20are,strong%20as%20the%20general%20public.
+[neg-soc-marl]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3962770/#:~:text=The%20negative%20health%20consequences%20of%20social%20inequality%20have%20been%20well%20established%20in%20the%20US
+[addiction-soc]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3716375/
+[poor-addict]: https://www.health.harvard.edu/blog/poverty-homelessness-and-social-stigma-make-addiction-more-deadly-202109282602
+[nic-danger]: https://pmc.ncbi.nlm.nih.gov/articles/PMC4363846/

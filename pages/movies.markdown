@@ -6,4 +6,6 @@ include_scripts: [
 title: "movies"
 ---
 
-## april 2026
+#### [april 2026][04-26]
+
+[april-26]: /movies/04-26
