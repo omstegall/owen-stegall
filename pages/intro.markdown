@@ -20,13 +20,13 @@ this website is meant to be a collection of information about me. so if you're h
 
 i also have a ton of new and ongoing [hobbies][current-hobbies], as well as thoughts on the [books][current-books], [shows][current-tv-shows], and [movies][current-movies] i'm currently watching! i might use this site as a personal diary too, but i'll see if that comes to fruition.
 
-[resume]: resume
+[resume]: /owen-stegall/resume
 [camelCase-info]: https://en.wikipedia.org/wiki/Camel_case
 [snake_case-info]: https://en.wikipedia.org/wiki/Snake_case
-[code]: code
-[old-essays]: essays
-[law-school-notes]: notes
-[current-hobbies]: hobbies
-[current-books]: books
-[current-movies]: movies
-[current-tv-shows]: tv
+[code]: /owen-stegall/code
+[old-essays]: /owen-stegall/essays
+[law-school-notes]: /owen-stegall/notes
+[current-hobbies]: /owen-stegall/hobbies
+[current-books]: /owen-stegall/books
+[current-movies]: /owen-stegall/movies
+[current-tv-shows]: //owen-stegall/tv
