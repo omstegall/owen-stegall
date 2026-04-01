@@ -12,6 +12,6 @@ while in law school, i want to exercise the creative writing part of my brain wh
 
 so this space will just be an area for me to jot down notes that are bouncing around in my noggin.
 
-- [03-31-2026][03-31-2026]
+- [04-01-2026][04-01-2026]
 
-[03-31-2026]: /owen-stegall/pages/blogs/03-31-26
+[04-01-2026]: /owen-stegall/pages/blogs/04-01-26
