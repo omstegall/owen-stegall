@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: resume
 include_scripts: [
 	"/assets/js/nav-bar.js"
 ]
