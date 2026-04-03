@@ -8,4 +8,4 @@ title: "movies"
 
 ## [april 2026][04-26]
 
-[04-26]: /owen-stegall/movies/04-26
+[04-26]: /owen-stegall/pages/movies/04-26
