@@ -18,7 +18,7 @@ email: omstegall@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   this is a website about me, owen stegall, and all the stuff i have done, am doing, and will do.
   make yourself at home!
-baseurl: "owen-stegall/pages/" # the subpath of your site, e.g. /blog
+baseurl: "owen-stegall/" # the subpath of your site, e.g. /blog
 url: "https://omstegall.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_baseurl: https://omstegall.github.io/owen-stegall
 # baseurl: ""

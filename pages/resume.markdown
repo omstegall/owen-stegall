@@ -76,4 +76,4 @@ title: "resume"
 - learning electric guitar and re-learning saxophone
 - playing recreational soccer
 
-[current-hobbies]: owen-stegall/pages/hobbies
+[current-hobbies]: owen-stegall/hobbies

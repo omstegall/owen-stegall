@@ -3,10 +3,8 @@ layout: default
 include_scripts: [
 	"/assets/js/nav-bar.js"
 ]
-title: "intro"
+title: "welcome"
 ---
-
-## intro
 
 hey, you found my website. welcome!
 
@@ -20,14 +18,14 @@ this website is meant to be a collection of information about me. so if you're h
 
 i also have a ton of new and ongoing [hobbies][current-hobbies], as well as thoughts on the [books][current-books], [shows][current-tv-shows], and [movies][current-movies] i'm currently watching! i might use this site as a [place to write down some thoughts][blogs] from time to time. 
 
-[resume]: /owen-stegall/pages/resume
+[resume]: /owen-stegall/resume
 [camelCase-info]: https://en.wikipedia.org/wiki/Camel_case
 [snake_case-info]: https://en.wikipedia.org/wiki/Snake_case
-[code]: /owen-stegall/pages/code
-[old-essays]: /owen-stegall/pages/essays
-[law-school-notes]: /owen-stegall/pages/notes
-[current-hobbies]: /owen-stegall/pages/hobbies
-[current-books]: /owen-stegall/pages/books
-[current-movies]: /owen-stegall/pages/movies
-[current-tv-shows]: /owen-stegall/pages/tv
-[blogs]: /owen-stegall/pages/blogs
+[code]: /owen-stegall/code
+[old-essays]: /owen-stegall/essays
+[law-school-notes]: /owen-stegall/notes
+[current-hobbies]: /owen-stegall/hobbies
+[current-books]: /owen-stegall/books
+[current-movies]: /owen-stegall/movies
+[current-tv-shows]: /owen-stegall/tv
+[blogs]: /owen-stegall/blogs

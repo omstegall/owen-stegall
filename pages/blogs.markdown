@@ -14,4 +14,4 @@ so this space will just be an area for me to jot down notes that are bouncing ar
 
 - [04-01-2026][04-01-2026]
 
-[04-01-2026]: /owen-stegall/pages/blogs/04-01-26
+[04-01-2026]: /owen-stegall/blogs/04-01-26
