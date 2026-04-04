@@ -1,5 +1,7 @@
 <nav>
   {% for item in site.data.navigation %}
-    <a href="{{ item.url }}">{{ item.name }}</a>
+  	{% if item.name != "index" %}
+    	<a href="{{ item.url }}">{{ item.name }}</a>
+	{% endif %}
   {% endfor %}
 </nav>
