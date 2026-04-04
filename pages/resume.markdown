@@ -15,7 +15,7 @@ title: "resume"
 
 - gpa: 3.167
 - honors: rob and lisa wilcox dean’s scholarship recipient
-- activities: public interest law society; carolina equality alliance
+- activities: public interest law society incoming president; carolina equality alliance
 
 ### university of north carolina at chapel hill
 #### chapel hill, north carolina
