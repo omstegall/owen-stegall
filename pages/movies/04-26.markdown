@@ -1,0 +1,27 @@
+---
+layout: default
+include_scripts: [
+	"/assets/js/nav-bar.js"
+] 
+title: "april 2026"
+---
+
+#### april 01
+
+i watched [mike and nick and nick and alice][mnna] yesterday. it was alright. i enjoyed ben schwartz's minor role, the soundtrack was p good, and the cinematography was kinda fun in some of the last scenes. i enjoyed the running bit of different terms/words characters didn't know, which shocked the other person. the lighting was wayyyyy too dark for an afternoon viewing at home. i kinda just needed a valve to turn off my mind and this provided the perfect opportunity as a sci-fi action flick to do that. no real underlying theme or point; just silly fun. 
+
+i give this a 3/5 rory boyfriends
+
+#### april 02
+
+last night, i helped put on a screening of the people's joker] at the [babylon][babylon] kino, where i got to meet david, who's a pretty cool dude who runs the place. [i absolutely loved the movie][pj-ltrbxd]!!! it utilized a ton of source material in the batman universe to create a story-world where so many characters feel fleshed out to movie the plot of a trans coming-of-age story along while also being humorously referential to so many different cultural points in batman
+
+i really enjoy the constant shifts of artistic mediums to keep the pace lively and fast. the characters feel real and nuanced instead of just having one characteristic trait, and no one character is a good or bad person because those kinds of people don't exist in the real world; everyone has stuff they're dealing with that make them better or worse as a result.
+
+all in all, whiel i'm still working through my own exploration of gender expression, i do think this movie will eventually hold an even more important place in my heart as i progress through this part of my life. similar to how "i saw the tv glow" helped me accept that the fear of coming out isn't as bad as spending my life never doing it at all. great movie nonetheless still!
+
+i give this 5/5 puffs of smylex
+
+[mnna]: https://letterboxd.com/film/mike-nick-nick-alice/
+[babylon]: https://www.babylonkino.com/
+[pj-ltrboxd]: https://letterboxd.com/ostegall/film/the-peoples-joker/
