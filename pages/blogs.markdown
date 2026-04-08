@@ -13,5 +13,7 @@ while in law school, i want to exercise the creative writing part of my brain wh
 so this space will just be an area for me to jot down notes that are bouncing around in my noggin.
 
 - [addiction economy][addiction-economy]
+- [creatures of play][creatures-of-play]
 
 [addiction-economy]: /owen-stegall/pages/blogs/addiction-economy
+[creatures-of-play]: /owen-stegall/pages/blogs/creatures-of-play
