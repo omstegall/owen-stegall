@@ -6,6 +6,11 @@ include_scripts: [
 title: "the addiction economy"
 ---
 
+## the addiction economy
+
+by: owen stegall
+date: 04/01/26
+
 ### the good, the bad, and the ugly of the internet
 
 last year, i quit working as a software engineer at amazon and planned on starting law school classes in the fall. i also started making concrete changes as to how i spent my time online. i deleted my facebook, instagram, and twitter accounts permanently. i never used facebook, and instagram was a vestige of a pre-covid life. when i used twitter (i never used the app by its other name because i turned off my phone's auto-update), it felt like home. i enjoyed being able to send my inner thoughts into the ether while also finding live updates on sports and politics. but the app became a [harbor for hate speech][twitter-hate] and the sports posts subsequently became negligble. i was able to replace that part of my life with bluesky, [the official app for sports][bluesky-sports], where i was able to reintegrate into the online community that migrated off of twitter. 

@@ -12,6 +12,6 @@ while in law school, i want to exercise the creative writing part of my brain wh
 
 so this space will just be an area for me to jot down notes that are bouncing around in my noggin.
 
-- [04-01-2026][04-01-2026]
+- [addiction economy][addiction-economy]
 
-[04-01-2026]: /owen-stegall/pages/blogs/04-01-26
+[addiction-economy]: /owen-stegall/pages/blogs/addiction-economy
