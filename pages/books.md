@@ -6,4 +6,6 @@ include_scripts: [
 title: "books"
 ---
 
--- camus' stranger
+## [april 2026][04-26]
+
+[04-26]: /owen-stegall/pages/books/04-26
